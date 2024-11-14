@@ -1,3 +1,6 @@
+**Instrutor:** Felipe Aguiar  
+**Plataforma:** [DIO.](https://dio.me)
+
 # Escrevendo as classes de um Jogo 🕹️
 
 **O Que deve ser utilizado**
@@ -34,3 +37,9 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada
+
+<div align="right">
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
